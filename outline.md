@@ -10,9 +10,6 @@ JJJJJJJJJ joes
 >>>>>>> 7e33a64d38a9ab83b1adae9dd858a19eb11baa0f
 Davidtwang
 
-DR GREGS
-
-#HEY THERE
 #HIIII
 ## Overview
 
